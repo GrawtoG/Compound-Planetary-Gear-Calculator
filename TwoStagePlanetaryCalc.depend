@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679521923 source:c:\users\matieusz\cpp\twostageplanetarycalc\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<vector>
+	<algorithm>
+	<time.h>
+
